@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StockDataImportApp": {
+      "commandName": "Project",
+      "commandLineArgs": "inputfile.txt outputfile.txt"
+    }
+  }
+}
